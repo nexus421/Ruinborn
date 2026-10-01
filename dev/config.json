@@ -1,0 +1,20 @@
+{
+  "bindHost": "0.0.0.0",
+  "port": 8080,
+  "publicUrl": "http://localhost:8080",
+  "dbPath": "dev/data/ruinborn.db",
+  "balancePath": "dev/balance.json",
+  "backupDir": "dev/data/backups",
+  "backupKeep": 14,
+  "apkPath": "dev/data/apk/ruinborn.apk",
+  "inviteCode": "dev",
+  "admins": ["admin"],
+  "maxPlayers": 50,
+  "gameSpeed": 20.0,
+  "timezone": "Europe/Berlin",
+  "dailyResetTime": "04:00",
+  "minClientVersion": 1,
+  "latestClientVersion": 1,
+  "logLevel": "DEBUG",
+  "devMode": true
+}

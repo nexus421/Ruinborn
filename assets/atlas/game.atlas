@@ -1,0 +1,2742 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearNearest, Linear
+repeat: none
+building/alliance_center
+  rotate: false
+  xy: 1172, 1550
+  size: 256, 204
+  orig: 256, 204
+  offset: 0, 0
+  index: 0
+building/alliance_center
+  rotate: false
+  xy: 1432, 1550
+  size: 256, 204
+  orig: 256, 204
+  offset: 0, 0
+  index: 1
+building/alliance_center
+  rotate: false
+  xy: 1172, 1342
+  size: 256, 204
+  orig: 256, 204
+  offset: 0, 0
+  index: 2
+building/alliance_center
+  rotate: false
+  xy: 912, 1334
+  size: 256, 204
+  orig: 256, 204
+  offset: 0, 0
+  index: 3
+building/barracks
+  rotate: false
+  xy: 614, 901
+  size: 256, 140
+  orig: 256, 140
+  offset: 0, 0
+  index: 0
+building/construction_1x1
+  rotate: false
+  xy: 1692, 1528
+  size: 128, 76
+  orig: 128, 76
+  offset: 0, 0
+  index: 0
+building/construction_2x2
+  rotate: false
+  xy: 912, 1542
+  size: 256, 212
+  orig: 256, 212
+  offset: 0, 0
+  index: 0
+building/construction_3x3
+  rotate: false
+  xy: 4, 1732
+  size: 384, 302
+  orig: 384, 302
+  offset: 0, 0
+  index: 0
+building/factory
+  rotate: false
+  xy: 1432, 1195
+  size: 256, 165
+  orig: 256, 165
+  offset: 0, 0
+  index: 0
+building/farm
+  rotate: false
+  xy: 1172, 1177
+  size: 256, 161
+  orig: 256, 161
+  offset: 0, 0
+  index: 0
+building/field_food
+  rotate: false
+  xy: 1344, 811
+  size: 128, 66
+  orig: 128, 66
+  offset: 0, 0
+  index: 0
+building/field_steel
+  rotate: false
+  xy: 1692, 1241
+  size: 128, 67
+  orig: 128, 67
+  offset: 0, 0
+  index: 0
+building/field_wood
+  rotate: false
+  xy: 1692, 1170
+  size: 128, 67
+  orig: 128, 67
+  offset: 0, 0
+  index: 0
+building/hospital
+  rotate: false
+  xy: 1432, 1032
+  size: 256, 159
+  orig: 256, 159
+  offset: 0, 0
+  index: 0
+building/hq
+  rotate: false
+  xy: 392, 1758
+  size: 384, 276
+  orig: 384, 276
+  offset: 0, 0
+  index: 0
+building/hq
+  rotate: false
+  xy: 780, 1758
+  size: 384, 276
+  orig: 384, 276
+  offset: 0, 0
+  index: 1
+building/hq
+  rotate: false
+  xy: 1168, 1758
+  size: 384, 276
+  orig: 384, 276
+  offset: 0, 0
+  index: 2
+building/hq
+  rotate: false
+  xy: 1556, 1758
+  size: 384, 276
+  orig: 384, 276
+  offset: 0, 0
+  index: 3
+building/lab
+  rotate: false
+  xy: 884, 1179
+  size: 256, 151
+  orig: 256, 151
+  offset: 0, 0
+  index: 0
+building/nest
+  rotate: false
+  xy: 1692, 1456
+  size: 128, 68
+  orig: 128, 68
+  offset: 0, 0
+  index: 0
+building/nest
+  rotate: false
+  xy: 1692, 1456
+  size: 128, 68
+  orig: 128, 68
+  offset: 0, 0
+  index: 2
+building/nest
+  rotate: false
+  xy: 1692, 1384
+  size: 128, 68
+  orig: 128, 68
+  offset: 0, 0
+  index: 1
+building/nest
+  rotate: false
+  xy: 1692, 1312
+  size: 128, 68
+  orig: 128, 68
+  offset: 0, 0
+  index: 3
+building/oil_pump
+  rotate: false
+  xy: 354, 1045
+  size: 256, 147
+  orig: 256, 147
+  offset: 0, 0
+  index: 0
+building/oil_pump
+  rotate: false
+  xy: 4, 944
+  size: 256, 147
+  orig: 256, 147
+  offset: 0, 0
+  index: 1
+building/oil_pump
+  rotate: false
+  xy: 614, 1045
+  size: 256, 147
+  orig: 256, 147
+  offset: 0, 0
+  index: 2
+building/oil_pump
+  rotate: false
+  xy: 874, 1028
+  size: 256, 147
+  orig: 256, 147
+  offset: 0, 0
+  index: 3
+building/oil_pump
+  rotate: false
+  xy: 1134, 1026
+  size: 256, 147
+  orig: 256, 147
+  offset: 0, 0
+  index: 4
+building/oil_pump
+  rotate: false
+  xy: 1394, 881
+  size: 256, 147
+  orig: 256, 147
+  offset: 0, 0
+  index: 5
+building/rally_point
+  rotate: false
+  xy: 364, 1357
+  size: 256, 157
+  orig: 256, 157
+  offset: 0, 0
+  index: 0
+building/rally_point
+  rotate: false
+  xy: 624, 1357
+  size: 256, 157
+  orig: 256, 157
+  offset: 0, 0
+  index: 1
+building/rally_point
+  rotate: false
+  xy: 624, 1196
+  size: 256, 157
+  orig: 256, 157
+  offset: 0, 0
+  index: 2
+building/rally_point
+  rotate: false
+  xy: 354, 1196
+  size: 256, 157
+  orig: 256, 157
+  offset: 0, 0
+  index: 3
+building/range
+  rotate: false
+  xy: 4, 799
+  size: 256, 141
+  orig: 256, 141
+  offset: 0, 0
+  index: 0
+building/sawmill
+  rotate: false
+  xy: 354, 894
+  size: 256, 147
+  orig: 256, 147
+  offset: 0, 0
+  index: 0
+building/steel_mill
+  rotate: false
+  xy: 392, 1518
+  size: 256, 236
+  orig: 256, 236
+  offset: 0, 0
+  index: 0
+building/steel_mill
+  rotate: false
+  xy: 4, 1492
+  size: 256, 236
+  orig: 256, 236
+  offset: 0, 0
+  index: 1
+building/steel_mill
+  rotate: false
+  xy: 4, 1252
+  size: 256, 236
+  orig: 256, 236
+  offset: 0, 0
+  index: 2
+building/steel_mill
+  rotate: false
+  xy: 652, 1518
+  size: 256, 236
+  orig: 256, 236
+  offset: 0, 0
+  index: 3
+building/wall
+  rotate: false
+  xy: 1432, 1364
+  size: 256, 182
+  orig: 256, 182
+  offset: 0, 0
+  index: 0
+building/warehouse
+  rotate: false
+  xy: 4, 1095
+  size: 256, 153
+  orig: 256, 153
+  offset: 0, 0
+  index: 0
+building/watchtower
+  rotate: false
+  xy: 1692, 1608
+  size: 128, 146
+  orig: 128, 146
+  offset: 0, 0
+  index: 0
+deco/bush
+  rotate: false
+  xy: 2010, 962
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: 0
+deco/dead_tree
+  rotate: false
+  xy: 364, 1690
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: 0
+deco/pine
+  rotate: false
+  xy: 2010, 1066
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: 0
+deco/rock
+  rotate: false
+  xy: 2010, 987
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: 0
+deco/tree
+  rotate: false
+  xy: 2010, 1015
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: 0
+deco/wreck
+  rotate: false
+  xy: 1086, 991
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: 0
+fx/explosion
+  rotate: false
+  xy: 1944, 1938
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 0
+fx/explosion
+  rotate: false
+  xy: 1944, 1838
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 1
+fx/explosion
+  rotate: false
+  xy: 1944, 1738
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 2
+fx/explosion
+  rotate: false
+  xy: 264, 1632
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 3
+fx/explosion
+  rotate: false
+  xy: 264, 1532
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 4
+fx/explosion
+  rotate: false
+  xy: 264, 1432
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 5
+icon/alliance
+  rotate: false
+  xy: 1488, 179
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/base
+  rotate: false
+  xy: 1556, 179
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/book
+  rotate: false
+  xy: 1624, 166
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/chat
+  rotate: false
+  xy: 1488, 111
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/clock
+  rotate: false
+  xy: 1556, 111
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/crate
+  rotate: false
+  xy: 1404, 110
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/food
+  rotate: false
+  xy: 1270, 78
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/gear
+  rotate: false
+  xy: 1164, 35
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/gift
+  rotate: false
+  xy: 1692, 144
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/help
+  rotate: false
+  xy: 1624, 98
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/hero_brock
+  rotate: false
+  xy: 1472, 43
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/hero_kaya
+  rotate: false
+  xy: 1540, 43
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/hero_nova
+  rotate: false
+  xy: 1338, 42
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/hero_rhea
+  rotate: false
+  xy: 1232, 10
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/hero_viktor
+  rotate: false
+  xy: 1760, 144
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/hospital
+  rotate: false
+  xy: 1828, 125
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/lock
+  rotate: false
+  xy: 1896, 125
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/map
+  rotate: false
+  xy: 1964, 114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/oil
+  rotate: false
+  xy: 1692, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/power
+  rotate: false
+  xy: 1608, 30
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/relocate
+  rotate: false
+  xy: 1760, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/report
+  rotate: false
+  xy: 1828, 57
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/research
+  rotate: false
+  xy: 1896, 57
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/scout
+  rotate: false
+  xy: 1964, 46
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/shield
+  rotate: false
+  xy: 1676, 8
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/speedup
+  rotate: false
+  xy: 1744, 8
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+tile/concrete
+  rotate: false
+  xy: 1476, 813
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: 0
+tile/dirt
+  rotate: false
+  xy: 1608, 750
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: 0
+tile/grass
+  rotate: false
+  xy: 1476, 745
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: 0
+tile/grass
+  rotate: false
+  xy: 1608, 682
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: 1
+tile/grass
+  rotate: false
+  xy: 1830, 702
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: 2
+tile/grid
+  rotate: false
+  xy: 1830, 634
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: 0
+tile/invalid
+  rotate: false
+  xy: 1830, 566
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: 0
+tile/road_x
+  rotate: false
+  xy: 1038, 782
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: 0
+tile/road_y
+  rotate: false
+  xy: 1170, 782
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: 0
+tile/select
+  rotate: false
+  xy: 1302, 743
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: 0
+tile/valid
+  rotate: false
+  xy: 1434, 677
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: 0
+unit/brute/attack_ne
+  rotate: false
+  xy: 1824, 1670
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 0
+unit/brute/attack_ne
+  rotate: false
+  xy: 1930, 1650
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 1
+unit/brute/attack_ne
+  rotate: false
+  xy: 1824, 1582
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 2
+unit/brute/attack_nw
+  rotate: false
+  xy: 1930, 1562
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 0
+unit/brute/attack_nw
+  rotate: false
+  xy: 1824, 1494
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 1
+unit/brute/attack_nw
+  rotate: false
+  xy: 1930, 1474
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 2
+unit/brute/attack_se
+  rotate: false
+  xy: 1824, 1406
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 0
+unit/brute/attack_se
+  rotate: false
+  xy: 1930, 1386
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 1
+unit/brute/attack_se
+  rotate: false
+  xy: 1824, 1318
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 2
+unit/brute/attack_sw
+  rotate: false
+  xy: 1930, 1298
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 0
+unit/brute/attack_sw
+  rotate: false
+  xy: 1824, 1230
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 1
+unit/brute/attack_sw
+  rotate: false
+  xy: 1930, 1210
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 2
+unit/brute/die_ne
+  rotate: false
+  xy: 1824, 1142
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 0
+unit/brute/die_ne
+  rotate: false
+  xy: 1930, 1122
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 1
+unit/brute/die_ne
+  rotate: false
+  xy: 1692, 1082
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 2
+unit/brute/die_ne
+  rotate: false
+  xy: 1798, 1054
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 3
+unit/brute/die_nw
+  rotate: false
+  xy: 1692, 994
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 0
+unit/brute/die_nw
+  rotate: false
+  xy: 1904, 1034
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 1
+unit/brute/die_nw
+  rotate: false
+  xy: 1798, 966
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 2
+unit/brute/die_nw
+  rotate: false
+  xy: 1904, 946
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 3
+unit/brute/die_se
+  rotate: false
+  xy: 1654, 906
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 0
+unit/brute/die_se
+  rotate: false
+  xy: 1760, 878
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 1
+unit/brute/die_se
+  rotate: false
+  xy: 1654, 818
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 2
+unit/brute/die_se
+  rotate: false
+  xy: 1866, 858
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 3
+unit/brute/die_sw
+  rotate: false
+  xy: 1760, 790
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 0
+unit/brute/die_sw
+  rotate: false
+  xy: 1866, 770
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 1
+unit/brute/die_sw
+  rotate: false
+  xy: 874, 940
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 2
+unit/brute/die_sw
+  rotate: false
+  xy: 980, 940
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 3
+unit/brute/idle_ne
+  rotate: false
+  xy: 1132, 938
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 0
+unit/brute/idle_ne
+  rotate: false
+  xy: 1238, 938
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 1
+unit/brute/idle_nw
+  rotate: false
+  xy: 1238, 850
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 0
+unit/brute/idle_nw
+  rotate: false
+  xy: 874, 852
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 1
+unit/brute/idle_se
+  rotate: false
+  xy: 980, 852
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 0
+unit/brute/idle_se
+  rotate: false
+  xy: 1086, 850
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 1
+unit/brute/idle_sw
+  rotate: false
+  xy: 614, 813
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 0
+unit/brute/idle_sw
+  rotate: false
+  xy: 720, 813
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 1
+unit/brute/walk_ne
+  rotate: false
+  xy: 826, 764
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 0
+unit/brute/walk_ne
+  rotate: false
+  xy: 932, 764
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 1
+unit/brute/walk_ne
+  rotate: false
+  xy: 932, 764
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 3
+unit/brute/walk_ne
+  rotate: false
+  xy: 354, 806
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 2
+unit/brute/walk_nw
+  rotate: false
+  xy: 460, 806
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 0
+unit/brute/walk_nw
+  rotate: false
+  xy: 4, 711
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 1
+unit/brute/walk_nw
+  rotate: false
+  xy: 4, 711
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 3
+unit/brute/walk_nw
+  rotate: false
+  xy: 110, 711
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 2
+unit/brute/walk_se
+  rotate: false
+  xy: 566, 725
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 0
+unit/brute/walk_se
+  rotate: false
+  xy: 672, 725
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 1
+unit/brute/walk_se
+  rotate: false
+  xy: 672, 725
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 3
+unit/brute/walk_se
+  rotate: false
+  xy: 354, 718
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 2
+unit/brute/walk_sw
+  rotate: false
+  xy: 460, 718
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 0
+unit/brute/walk_sw
+  rotate: false
+  xy: 216, 696
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 1
+unit/brute/walk_sw
+  rotate: false
+  xy: 216, 696
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 3
+unit/brute/walk_sw
+  rotate: false
+  xy: 4, 623
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: 2
+unit/jeep/drive_ne
+  rotate: false
+  xy: 1972, 877
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 0
+unit/jeep/idle_ne
+  rotate: false
+  xy: 1972, 877
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 0
+unit/jeep/drive_ne
+  rotate: false
+  xy: 1972, 808
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 1
+unit/jeep/drive_ne
+  rotate: false
+  xy: 1972, 739
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 2
+unit/jeep/drive_ne
+  rotate: false
+  xy: 1970, 316
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 3
+unit/jeep/drive_nw
+  rotate: false
+  xy: 850, 533
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 0
+unit/jeep/idle_nw
+  rotate: false
+  xy: 850, 533
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 0
+unit/jeep/drive_nw
+  rotate: false
+  xy: 1394, 365
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 1
+unit/jeep/drive_nw
+  rotate: false
+  xy: 824, 80
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 2
+unit/jeep/drive_nw
+  rotate: false
+  xy: 736, 74
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 3
+unit/jeep/drive_se
+  rotate: false
+  xy: 572, 12
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 0
+unit/jeep/idle_se
+  rotate: false
+  xy: 572, 12
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 0
+unit/jeep/drive_se
+  rotate: false
+  xy: 640, 12
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 1
+unit/jeep/drive_se
+  rotate: false
+  xy: 998, 144
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 2
+unit/jeep/drive_se
+  rotate: false
+  xy: 892, 77
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 3
+unit/jeep/drive_sw
+  rotate: false
+  xy: 804, 11
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 0
+unit/jeep/idle_sw
+  rotate: false
+  xy: 804, 11
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 0
+unit/jeep/drive_sw
+  rotate: false
+  xy: 708, 5
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 1
+unit/jeep/drive_sw
+  rotate: false
+  xy: 1066, 114
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 2
+unit/jeep/drive_sw
+  rotate: false
+  xy: 960, 75
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 3
+unit/jeep/idle_ne
+  rotate: false
+  xy: 872, 8
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 1
+unit/jeep/idle_nw
+  rotate: false
+  xy: 1134, 105
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 1
+unit/jeep/idle_se
+  rotate: false
+  xy: 1028, 45
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 1
+unit/jeep/idle_sw
+  rotate: false
+  xy: 940, 6
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 1
+unit/jeep/wreck_ne
+  rotate: false
+  xy: 1420, 178
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 0
+unit/jeep/wreck_nw
+  rotate: false
+  xy: 1336, 146
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 0
+unit/jeep/wreck_se
+  rotate: false
+  xy: 1202, 103
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 0
+unit/jeep/wreck_sw
+  rotate: false
+  xy: 1096, 36
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: 0
+unit/shooter/attack_ne
+  rotate: false
+  xy: 1962, 611
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/shooter/attack_ne
+  rotate: false
+  xy: 1656, 618
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/shooter/attack_ne
+  rotate: false
+  xy: 1218, 718
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/shooter/attack_nw
+  rotate: false
+  xy: 1482, 613
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/shooter/attack_nw
+  rotate: false
+  xy: 1656, 490
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/shooter/attack_nw
+  rotate: false
+  xy: 1656, 426
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/shooter/attack_se
+  rotate: false
+  xy: 1466, 375
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/shooter/attack_se
+  rotate: false
+  xy: 1634, 362
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/shooter/attack_se
+  rotate: false
+  xy: 1802, 340
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/shooter/attack_sw
+  rotate: false
+  xy: 682, 538
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/shooter/attack_sw
+  rotate: false
+  xy: 470, 499
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/shooter/attack_sw
+  rotate: false
+  xy: 290, 492
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/shooter/die_ne
+  rotate: false
+  xy: 184, 470
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/shooter/die_ne
+  rotate: false
+  xy: 722, 474
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/shooter/die_ne
+  rotate: false
+  xy: 542, 435
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/shooter/die_ne
+  rotate: false
+  xy: 184, 406
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 3
+unit/shooter/die_nw
+  rotate: false
+  xy: 4, 397
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/shooter/die_nw
+  rotate: false
+  xy: 918, 475
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/shooter/die_nw
+  rotate: false
+  xy: 626, 410
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/shooter/die_nw
+  rotate: false
+  xy: 436, 371
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 3
+unit/shooter/die_se
+  rotate: false
+  xy: 268, 364
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/shooter/die_se
+  rotate: false
+  xy: 178, 342
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/shooter/die_se
+  rotate: false
+  xy: 4, 333
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/shooter/die_se
+  rotate: false
+  xy: 1086, 475
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 3
+unit/shooter/die_sw
+  rotate: false
+  xy: 1254, 436
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/shooter/die_sw
+  rotate: false
+  xy: 794, 405
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/shooter/die_sw
+  rotate: false
+  xy: 688, 346
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/shooter/die_sw
+  rotate: false
+  xy: 520, 307
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 3
+unit/shooter/idle_ne
+  rotate: false
+  xy: 172, 278
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/shooter/idle_ne
+  rotate: false
+  xy: 4, 269
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/shooter/idle_nw
+  rotate: false
+  xy: 974, 411
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/shooter/idle_nw
+  rotate: false
+  xy: 1142, 381
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/shooter/idle_se
+  rotate: false
+  xy: 1310, 370
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/shooter/idle_se
+  rotate: false
+  xy: 1546, 311
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/shooter/idle_sw
+  rotate: false
+  xy: 1714, 276
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/shooter/idle_sw
+  rotate: false
+  xy: 1882, 257
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/shooter/walk_ne
+  rotate: false
+  xy: 772, 341
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/shooter/walk_ne
+  rotate: false
+  xy: 688, 282
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/shooter/walk_ne
+  rotate: false
+  xy: 688, 282
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 3
+unit/shooter/walk_ne
+  rotate: false
+  xy: 514, 243
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/shooter/walk_nw
+  rotate: false
+  xy: 172, 214
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/shooter/walk_nw
+  rotate: false
+  xy: 4, 205
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/shooter/walk_nw
+  rotate: false
+  xy: 4, 205
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 3
+unit/shooter/walk_nw
+  rotate: false
+  xy: 962, 347
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/shooter/walk_se
+  rotate: false
+  xy: 1130, 317
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/shooter/walk_se
+  rotate: false
+  xy: 1298, 306
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/shooter/walk_se
+  rotate: false
+  xy: 1298, 306
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 3
+unit/shooter/walk_se
+  rotate: false
+  xy: 1546, 247
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/shooter/walk_sw
+  rotate: false
+  xy: 1714, 212
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/shooter/walk_sw
+  rotate: false
+  xy: 1882, 193
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/shooter/walk_sw
+  rotate: false
+  xy: 1882, 193
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 3
+unit/shooter/walk_sw
+  rotate: false
+  xy: 772, 277
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/soldier/attack_ne
+  rotate: false
+  xy: 1962, 675
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/soldier/attack_ne
+  rotate: false
+  xy: 1962, 547
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/soldier/attack_ne
+  rotate: false
+  xy: 1656, 554
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/soldier/attack_nw
+  rotate: false
+  xy: 1218, 654
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/soldier/attack_nw
+  rotate: false
+  xy: 1482, 549
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/soldier/attack_nw
+  rotate: false
+  xy: 1482, 485
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/soldier/attack_se
+  rotate: false
+  xy: 1218, 590
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/soldier/attack_se
+  rotate: false
+  xy: 1550, 375
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/soldier/attack_se
+  rotate: false
+  xy: 1718, 340
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/soldier/attack_sw
+  rotate: false
+  xy: 1886, 321
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/soldier/attack_sw
+  rotate: false
+  xy: 766, 538
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/soldier/attack_sw
+  rotate: false
+  xy: 554, 499
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/soldier/die_ne
+  rotate: false
+  xy: 374, 492
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/soldier/die_ne
+  rotate: false
+  xy: 638, 474
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/soldier/die_ne
+  rotate: false
+  xy: 458, 435
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/soldier/die_ne
+  rotate: false
+  xy: 268, 428
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 3
+unit/soldier/die_nw
+  rotate: false
+  xy: 94, 404
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/soldier/die_nw
+  rotate: false
+  xy: 352, 428
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/soldier/die_nw
+  rotate: false
+  xy: 806, 469
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/soldier/die_nw
+  rotate: false
+  xy: 710, 410
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 3
+unit/soldier/die_se
+  rotate: false
+  xy: 520, 371
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/soldier/die_se
+  rotate: false
+  xy: 352, 364
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/soldier/die_se
+  rotate: false
+  xy: 88, 340
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/soldier/die_se
+  rotate: false
+  xy: 1002, 475
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 3
+unit/soldier/die_sw
+  rotate: false
+  xy: 1170, 445
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/soldier/die_sw
+  rotate: false
+  xy: 890, 411
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/soldier/die_sw
+  rotate: false
+  xy: 604, 346
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/soldier/die_sw
+  rotate: false
+  xy: 436, 307
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 3
+unit/soldier/idle_ne
+  rotate: false
+  xy: 262, 300
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/soldier/idle_ne
+  rotate: false
+  xy: 88, 276
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/soldier/idle_nw
+  rotate: false
+  xy: 346, 300
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/soldier/idle_nw
+  rotate: false
+  xy: 1058, 411
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/soldier/idle_se
+  rotate: false
+  xy: 1226, 372
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/soldier/idle_se
+  rotate: false
+  xy: 1462, 311
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/soldier/idle_sw
+  rotate: false
+  xy: 1630, 298
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/soldier/idle_sw
+  rotate: false
+  xy: 1798, 276
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/soldier/walk_ne
+  rotate: false
+  xy: 878, 347
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/soldier/walk_ne
+  rotate: false
+  xy: 604, 282
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/soldier/walk_ne
+  rotate: false
+  xy: 604, 282
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 3
+unit/soldier/walk_ne
+  rotate: false
+  xy: 430, 243
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/soldier/walk_nw
+  rotate: false
+  xy: 256, 236
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/soldier/walk_nw
+  rotate: false
+  xy: 88, 212
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/soldier/walk_nw
+  rotate: false
+  xy: 88, 212
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 3
+unit/soldier/walk_nw
+  rotate: false
+  xy: 340, 236
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/soldier/walk_se
+  rotate: false
+  xy: 1046, 347
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/soldier/walk_se
+  rotate: false
+  xy: 1214, 308
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/soldier/walk_se
+  rotate: false
+  xy: 1214, 308
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 3
+unit/soldier/walk_se
+  rotate: false
+  xy: 1462, 247
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/soldier/walk_sw
+  rotate: false
+  xy: 1630, 234
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 0
+unit/soldier/walk_sw
+  rotate: false
+  xy: 1798, 212
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 1
+unit/soldier/walk_sw
+  rotate: false
+  xy: 1798, 212
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 3
+unit/soldier/walk_sw
+  rotate: false
+  xy: 856, 283
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: 2
+unit/worker/die_ne
+  rotate: false
+  xy: 264, 1351
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 0
+unit/worker/die_ne
+  rotate: false
+  xy: 264, 1270
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 1
+unit/worker/die_ne
+  rotate: false
+  xy: 264, 1189
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 2
+unit/worker/die_ne
+  rotate: false
+  xy: 264, 1108
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 3
+unit/worker/die_nw
+  rotate: false
+  xy: 264, 1027
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 0
+unit/worker/die_nw
+  rotate: false
+  xy: 264, 946
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 1
+unit/worker/die_nw
+  rotate: false
+  xy: 264, 865
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 2
+unit/worker/die_nw
+  rotate: false
+  xy: 264, 784
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 3
+unit/worker/die_se
+  rotate: false
+  xy: 110, 630
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 0
+unit/worker/die_se
+  rotate: false
+  xy: 1740, 709
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 1
+unit/worker/die_se
+  rotate: false
+  xy: 1740, 628
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 2
+unit/worker/die_se
+  rotate: false
+  xy: 1566, 601
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 3
+unit/worker/die_sw
+  rotate: false
+  xy: 1740, 547
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 0
+unit/worker/die_sw
+  rotate: false
+  xy: 1830, 485
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 1
+unit/worker/die_sw
+  rotate: false
+  xy: 1920, 466
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 2
+unit/worker/die_sw
+  rotate: false
+  xy: 1038, 701
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 3
+unit/worker/idle_ne
+  rotate: false
+  xy: 1128, 701
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 0
+unit/worker/idle_ne
+  rotate: false
+  xy: 1302, 662
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 1
+unit/worker/idle_nw
+  rotate: false
+  xy: 1392, 596
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 0
+unit/worker/idle_nw
+  rotate: false
+  xy: 1566, 520
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 1
+unit/worker/idle_se
+  rotate: false
+  xy: 1302, 581
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 0
+unit/worker/idle_se
+  rotate: false
+  xy: 1392, 515
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 1
+unit/worker/idle_sw
+  rotate: false
+  xy: 1566, 439
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 0
+unit/worker/idle_sw
+  rotate: false
+  xy: 1740, 404
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 1
+unit/worker/walk_ne
+  rotate: false
+  xy: 1830, 404
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 0
+unit/worker/walk_ne
+  rotate: false
+  xy: 1920, 385
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 1
+unit/worker/walk_ne
+  rotate: false
+  xy: 1920, 385
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 3
+unit/worker/walk_ne
+  rotate: false
+  xy: 778, 683
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 2
+unit/worker/walk_nw
+  rotate: false
+  xy: 868, 683
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 0
+unit/worker/walk_nw
+  rotate: false
+  xy: 1038, 620
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 1
+unit/worker/walk_nw
+  rotate: false
+  xy: 1038, 620
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 3
+unit/worker/walk_nw
+  rotate: false
+  xy: 1128, 620
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 2
+unit/worker/walk_se
+  rotate: false
+  xy: 566, 644
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 0
+unit/worker/walk_se
+  rotate: false
+  xy: 656, 644
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 1
+unit/worker/walk_se
+  rotate: false
+  xy: 656, 644
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 3
+unit/worker/walk_se
+  rotate: false
+  xy: 746, 602
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 2
+unit/worker/walk_sw
+  rotate: false
+  xy: 836, 602
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 0
+unit/worker/walk_sw
+  rotate: false
+  xy: 322, 637
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 1
+unit/worker/walk_sw
+  rotate: false
+  xy: 322, 637
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 3
+unit/worker/walk_sw
+  rotate: false
+  xy: 200, 615
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 2
+unit/worker/work_ne
+  rotate: false
+  xy: 110, 549
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 0
+unit/worker/work_ne
+  rotate: false
+  xy: 4, 542
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 1
+unit/worker/work_ne
+  rotate: false
+  xy: 412, 637
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 2
+unit/worker/work_ne
+  rotate: false
+  xy: 502, 563
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 3
+unit/worker/work_nw
+  rotate: false
+  xy: 592, 563
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 0
+unit/worker/work_nw
+  rotate: false
+  xy: 290, 556
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 1
+unit/worker/work_nw
+  rotate: false
+  xy: 200, 534
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 2
+unit/worker/work_nw
+  rotate: false
+  xy: 94, 468
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 3
+unit/worker/work_se
+  rotate: false
+  xy: 4, 461
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 0
+unit/worker/work_se
+  rotate: false
+  xy: 380, 556
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 1
+unit/worker/work_se
+  rotate: false
+  xy: 926, 539
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 2
+unit/worker/work_se
+  rotate: false
+  xy: 1016, 539
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 3
+unit/worker/work_sw
+  rotate: false
+  xy: 1106, 539
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 0
+unit/worker/work_sw
+  rotate: false
+  xy: 1196, 509
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 1
+unit/worker/work_sw
+  rotate: false
+  xy: 1286, 500
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 2
+unit/worker/work_sw
+  rotate: false
+  xy: 1376, 434
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: 3
+unit/zombie/attack_ne
+  rotate: false
+  xy: 958, 697
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 0
+unit/zombie/attack_ne
+  rotate: false
+  xy: 958, 630
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 1
+unit/zombie/attack_ne
+  rotate: false
+  xy: 1966, 249
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 2
+unit/zombie/attack_nw
+  rotate: false
+  xy: 1382, 298
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 0
+unit/zombie/attack_nw
+  rotate: false
+  xy: 1966, 182
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 1
+unit/zombie/attack_nw
+  rotate: false
+  xy: 598, 215
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 2
+unit/zombie/attack_se
+  rotate: false
+  xy: 678, 215
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 0
+unit/zombie/attack_se
+  rotate: false
+  xy: 424, 176
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 1
+unit/zombie/attack_se
+  rotate: false
+  xy: 504, 176
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 2
+unit/zombie/attack_sw
+  rotate: false
+  xy: 256, 169
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 0
+unit/zombie/attack_sw
+  rotate: false
+  xy: 172, 147
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 1
+unit/zombie/attack_sw
+  rotate: false
+  xy: 88, 145
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 2
+unit/zombie/die_ne
+  rotate: false
+  xy: 4, 138
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 0
+unit/zombie/die_ne
+  rotate: false
+  xy: 336, 169
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 1
+unit/zombie/die_ne
+  rotate: false
+  xy: 940, 280
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 2
+unit/zombie/die_ne
+  rotate: false
+  xy: 856, 216
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 3
+unit/zombie/die_nw
+  rotate: false
+  xy: 758, 210
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 0
+unit/zombie/die_nw
+  rotate: false
+  xy: 584, 148
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 1
+unit/zombie/die_nw
+  rotate: false
+  xy: 664, 148
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 2
+unit/zombie/die_nw
+  rotate: false
+  xy: 416, 109
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 3
+unit/zombie/die_se
+  rotate: false
+  xy: 496, 109
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 0
+unit/zombie/die_se
+  rotate: false
+  xy: 252, 102
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 1
+unit/zombie/die_se
+  rotate: false
+  xy: 168, 80
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 2
+unit/zombie/die_se
+  rotate: false
+  xy: 84, 78
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 3
+unit/zombie/die_sw
+  rotate: false
+  xy: 4, 71
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 0
+unit/zombie/die_sw
+  rotate: false
+  xy: 332, 102
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 1
+unit/zombie/die_sw
+  rotate: false
+  xy: 1020, 280
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 2
+unit/zombie/die_sw
+  rotate: false
+  xy: 1100, 250
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 3
+unit/zombie/idle_ne
+  rotate: false
+  xy: 1180, 241
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 0
+unit/zombie/idle_ne
+  rotate: false
+  xy: 1260, 239
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 1
+unit/zombie/idle_nw
+  rotate: false
+  xy: 1340, 215
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 0
+unit/zombie/idle_nw
+  rotate: false
+  xy: 936, 213
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 1
+unit/zombie/idle_se
+  rotate: false
+  xy: 838, 149
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 0
+unit/zombie/idle_se
+  rotate: false
+  xy: 744, 143
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 1
+unit/zombie/idle_sw
+  rotate: false
+  xy: 1016, 213
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 0
+unit/zombie/idle_sw
+  rotate: false
+  xy: 1096, 183
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 1
+unit/zombie/walk_ne
+  rotate: false
+  xy: 1176, 174
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 0
+unit/zombie/walk_ne
+  rotate: false
+  xy: 1256, 172
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 1
+unit/zombie/walk_ne
+  rotate: false
+  xy: 1256, 172
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 3
+unit/zombie/walk_ne
+  rotate: false
+  xy: 576, 81
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 2
+unit/zombie/walk_nw
+  rotate: false
+  xy: 656, 81
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 0
+unit/zombie/walk_nw
+  rotate: false
+  xy: 412, 42
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 1
+unit/zombie/walk_nw
+  rotate: false
+  xy: 412, 42
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 3
+unit/zombie/walk_nw
+  rotate: false
+  xy: 492, 42
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 2
+unit/zombie/walk_se
+  rotate: false
+  xy: 248, 35
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 0
+unit/zombie/walk_se
+  rotate: false
+  xy: 164, 13
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 1
+unit/zombie/walk_se
+  rotate: false
+  xy: 164, 13
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 3
+unit/zombie/walk_se
+  rotate: false
+  xy: 84, 11
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 2
+unit/zombie/walk_sw
+  rotate: false
+  xy: 4, 4
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 0
+unit/zombie/walk_sw
+  rotate: false
+  xy: 328, 35
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 1
+unit/zombie/walk_sw
+  rotate: false
+  xy: 328, 35
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 3
+unit/zombie/walk_sw
+  rotate: false
+  xy: 918, 146
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: 2
+
+game2.png
+size: 512, 128
+format: RGBA8888
+filter: MipMapLinearNearest, Linear
+repeat: none
+icon/star
+  rotate: false
+  xy: 4, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/steel
+  rotate: false
+  xy: 72, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/sword
+  rotate: false
+  xy: 140, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/task
+  rotate: false
+  xy: 208, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/troops
+  rotate: false
+  xy: 276, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/trophy
+  rotate: false
+  xy: 344, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+icon/wood
+  rotate: false
+  xy: 412, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0

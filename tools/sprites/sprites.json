@@ -1,0 +1,1035 @@
+{
+  "tile": {
+    "w": 128,
+    "h": 64
+  },
+  "dirs": [
+    [
+      "se",
+      1,
+      0
+    ],
+    [
+      "sw",
+      0,
+      1
+    ],
+    [
+      "nw",
+      -1,
+      0
+    ],
+    [
+      "ne",
+      0,
+      -1
+    ]
+  ],
+  "buildings": [
+    {
+      "name": "hq",
+      "region": "building/hq",
+      "footprint": 3,
+      "frames": 4,
+      "duration": 0.15,
+      "loop": true,
+      "w": 384,
+      "h": 276,
+      "ax": 192,
+      "ay": 96
+    },
+    {
+      "name": "farm",
+      "region": "building/farm",
+      "footprint": 2,
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 256,
+      "h": 161,
+      "ax": 128,
+      "ay": 64
+    },
+    {
+      "name": "oil_pump",
+      "region": "building/oil_pump",
+      "footprint": 2,
+      "frames": 6,
+      "duration": 0.15,
+      "loop": true,
+      "w": 256,
+      "h": 147,
+      "ax": 128,
+      "ay": 64
+    },
+    {
+      "name": "steel_mill",
+      "region": "building/steel_mill",
+      "footprint": 2,
+      "frames": 4,
+      "duration": 0.2,
+      "loop": true,
+      "w": 256,
+      "h": 236,
+      "ax": 128,
+      "ay": 64
+    },
+    {
+      "name": "sawmill",
+      "region": "building/sawmill",
+      "footprint": 2,
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 256,
+      "h": 147,
+      "ax": 128,
+      "ay": 64
+    },
+    {
+      "name": "barracks",
+      "region": "building/barracks",
+      "footprint": 2,
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 256,
+      "h": 140,
+      "ax": 128,
+      "ay": 64
+    },
+    {
+      "name": "warehouse",
+      "region": "building/warehouse",
+      "footprint": 2,
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 256,
+      "h": 153,
+      "ax": 128,
+      "ay": 64
+    },
+    {
+      "name": "hospital",
+      "region": "building/hospital",
+      "footprint": 2,
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 256,
+      "h": 159,
+      "ax": 128,
+      "ay": 64
+    },
+    {
+      "name": "lab",
+      "region": "building/lab",
+      "footprint": 2,
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 256,
+      "h": 151,
+      "ax": 128,
+      "ay": 64
+    },
+    {
+      "name": "watchtower",
+      "region": "building/watchtower",
+      "footprint": 1,
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 128,
+      "h": 146,
+      "ax": 64,
+      "ay": 32
+    },
+    {
+      "name": "construction_1x1",
+      "region": "building/construction_1x1",
+      "footprint": 1,
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 128,
+      "h": 76,
+      "ax": 64,
+      "ay": 32
+    },
+    {
+      "name": "construction_2x2",
+      "region": "building/construction_2x2",
+      "footprint": 2,
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 256,
+      "h": 212,
+      "ax": 128,
+      "ay": 64
+    },
+    {
+      "name": "construction_3x3",
+      "region": "building/construction_3x3",
+      "footprint": 3,
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 384,
+      "h": 302,
+      "ax": 192,
+      "ay": 96
+    },
+    {
+      "name": "wall",
+      "region": "building/wall",
+      "footprint": 2,
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 256,
+      "h": 182,
+      "ax": 128,
+      "ay": 64
+    },
+    {
+      "name": "factory",
+      "region": "building/factory",
+      "footprint": 2,
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 256,
+      "h": 165,
+      "ax": 128,
+      "ay": 64
+    },
+    {
+      "name": "range",
+      "region": "building/range",
+      "footprint": 2,
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 256,
+      "h": 141,
+      "ax": 128,
+      "ay": 64
+    },
+    {
+      "name": "rally_point",
+      "region": "building/rally_point",
+      "footprint": 2,
+      "frames": 4,
+      "duration": 0.15,
+      "loop": true,
+      "w": 256,
+      "h": 157,
+      "ax": 128,
+      "ay": 64
+    },
+    {
+      "name": "alliance_center",
+      "region": "building/alliance_center",
+      "footprint": 2,
+      "frames": 4,
+      "duration": 0.2,
+      "loop": true,
+      "w": 256,
+      "h": 204,
+      "ax": 128,
+      "ay": 64
+    },
+    {
+      "name": "nest",
+      "region": "building/nest",
+      "footprint": 1,
+      "frames": 4,
+      "duration": 0.25,
+      "loop": true,
+      "w": 128,
+      "h": 68,
+      "ax": 64,
+      "ay": 32
+    },
+    {
+      "name": "field_food",
+      "region": "building/field_food",
+      "footprint": 1,
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 128,
+      "h": 66,
+      "ax": 64,
+      "ay": 32
+    },
+    {
+      "name": "field_wood",
+      "region": "building/field_wood",
+      "footprint": 1,
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 128,
+      "h": 67,
+      "ax": 64,
+      "ay": 32
+    },
+    {
+      "name": "field_steel",
+      "region": "building/field_steel",
+      "footprint": 1,
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 128,
+      "h": 67,
+      "ax": 64,
+      "ay": 32
+    }
+  ],
+  "units": [
+    {
+      "name": "soldier",
+      "w": 80,
+      "h": 60,
+      "ax": 40,
+      "ay": 19,
+      "actions": [
+        {
+          "action": "idle",
+          "frames": 2,
+          "duration": 0.5,
+          "loop": true
+        },
+        {
+          "action": "walk",
+          "frames": 4,
+          "duration": 0.13,
+          "loop": true
+        },
+        {
+          "action": "attack",
+          "frames": 3,
+          "duration": 0.09,
+          "loop": true
+        },
+        {
+          "action": "die",
+          "frames": 4,
+          "duration": 0.14,
+          "loop": false
+        }
+      ]
+    },
+    {
+      "name": "worker",
+      "w": 86,
+      "h": 77,
+      "ax": 43,
+      "ay": 29,
+      "actions": [
+        {
+          "action": "idle",
+          "frames": 2,
+          "duration": 0.5,
+          "loop": true
+        },
+        {
+          "action": "walk",
+          "frames": 4,
+          "duration": 0.13,
+          "loop": true
+        },
+        {
+          "action": "work",
+          "frames": 4,
+          "duration": 0.12,
+          "loop": true
+        },
+        {
+          "action": "die",
+          "frames": 4,
+          "duration": 0.14,
+          "loop": false
+        }
+      ]
+    },
+    {
+      "name": "zombie",
+      "w": 76,
+      "h": 63,
+      "ax": 38,
+      "ay": 23,
+      "actions": [
+        {
+          "action": "idle",
+          "frames": 2,
+          "duration": 0.45,
+          "loop": true
+        },
+        {
+          "action": "walk",
+          "frames": 4,
+          "duration": 0.2,
+          "loop": true
+        },
+        {
+          "action": "attack",
+          "frames": 3,
+          "duration": 0.13,
+          "loop": true
+        },
+        {
+          "action": "die",
+          "frames": 4,
+          "duration": 0.14,
+          "loop": false
+        }
+      ]
+    },
+    {
+      "name": "brute",
+      "w": 102,
+      "h": 84,
+      "ax": 51,
+      "ay": 31,
+      "actions": [
+        {
+          "action": "idle",
+          "frames": 2,
+          "duration": 0.5,
+          "loop": true
+        },
+        {
+          "action": "walk",
+          "frames": 4,
+          "duration": 0.24,
+          "loop": true
+        },
+        {
+          "action": "attack",
+          "frames": 3,
+          "duration": 0.15,
+          "loop": true
+        },
+        {
+          "action": "die",
+          "frames": 4,
+          "duration": 0.16,
+          "loop": false
+        }
+      ]
+    },
+    {
+      "name": "jeep",
+      "w": 64,
+      "h": 65,
+      "ax": 32,
+      "ay": 17,
+      "actions": [
+        {
+          "action": "idle",
+          "frames": 2,
+          "duration": 0.12,
+          "loop": true
+        },
+        {
+          "action": "drive",
+          "frames": 4,
+          "duration": 0.08,
+          "loop": true
+        },
+        {
+          "action": "wreck",
+          "frames": 1,
+          "duration": 1.0,
+          "loop": false
+        }
+      ]
+    },
+    {
+      "name": "shooter",
+      "w": 80,
+      "h": 60,
+      "ax": 40,
+      "ay": 19,
+      "actions": [
+        {
+          "action": "idle",
+          "frames": 2,
+          "duration": 0.5,
+          "loop": true
+        },
+        {
+          "action": "walk",
+          "frames": 4,
+          "duration": 0.13,
+          "loop": true
+        },
+        {
+          "action": "attack",
+          "frames": 3,
+          "duration": 0.09,
+          "loop": true
+        },
+        {
+          "action": "die",
+          "frames": 4,
+          "duration": 0.14,
+          "loop": false
+        }
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "name": "grass",
+      "region": "tile/grass",
+      "frames": 3,
+      "duration": 1.0,
+      "loop": false,
+      "w": 128,
+      "h": 64,
+      "ax": 64,
+      "ay": 32
+    },
+    {
+      "name": "dirt",
+      "region": "tile/dirt",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 128,
+      "h": 64,
+      "ax": 64,
+      "ay": 32
+    },
+    {
+      "name": "concrete",
+      "region": "tile/concrete",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 128,
+      "h": 64,
+      "ax": 64,
+      "ay": 32
+    },
+    {
+      "name": "road_x",
+      "region": "tile/road_x",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 128,
+      "h": 64,
+      "ax": 64,
+      "ay": 32
+    },
+    {
+      "name": "road_y",
+      "region": "tile/road_y",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 128,
+      "h": 64,
+      "ax": 64,
+      "ay": 32
+    },
+    {
+      "name": "grid",
+      "region": "tile/grid",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 128,
+      "h": 64,
+      "ax": 64,
+      "ay": 32
+    },
+    {
+      "name": "valid",
+      "region": "tile/valid",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 128,
+      "h": 64,
+      "ax": 64,
+      "ay": 32
+    },
+    {
+      "name": "invalid",
+      "region": "tile/invalid",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 128,
+      "h": 64,
+      "ax": 64,
+      "ay": 32
+    },
+    {
+      "name": "select",
+      "region": "tile/select",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 128,
+      "h": 64,
+      "ax": 64,
+      "ay": 32
+    }
+  ],
+  "decos": [
+    {
+      "name": "pine",
+      "region": "deco/pine",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 30,
+      "h": 52,
+      "ax": 15,
+      "ay": 7
+    },
+    {
+      "name": "tree",
+      "region": "deco/tree",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 30,
+      "h": 47,
+      "ax": 15,
+      "ay": 8
+    },
+    {
+      "name": "dead_tree",
+      "region": "deco/dead_tree",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 22,
+      "h": 38,
+      "ax": 11,
+      "ay": 5
+    },
+    {
+      "name": "rock",
+      "region": "deco/rock",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 28,
+      "h": 24,
+      "ax": 14,
+      "ay": 11
+    },
+    {
+      "name": "bush",
+      "region": "deco/bush",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 28,
+      "h": 21,
+      "ax": 14,
+      "ay": 7
+    },
+    {
+      "name": "wreck",
+      "region": "deco/wreck",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 42,
+      "h": 33,
+      "ax": 21,
+      "ay": 10
+    }
+  ],
+  "icons": [
+    {
+      "name": "food",
+      "region": "icon/food",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "wood",
+      "region": "icon/wood",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "steel",
+      "region": "icon/steel",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "oil",
+      "region": "icon/oil",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "speedup",
+      "region": "icon/speedup",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "shield",
+      "region": "icon/shield",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "crate",
+      "region": "icon/crate",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "book",
+      "region": "icon/book",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "relocate",
+      "region": "icon/relocate",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "sword",
+      "region": "icon/sword",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "clock",
+      "region": "icon/clock",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "scout",
+      "region": "icon/scout",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "chat",
+      "region": "icon/chat",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "report",
+      "region": "icon/report",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "alliance",
+      "region": "icon/alliance",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "gear",
+      "region": "icon/gear",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "lock",
+      "region": "icon/lock",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "research",
+      "region": "icon/research",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "hospital",
+      "region": "icon/hospital",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "gift",
+      "region": "icon/gift",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "star",
+      "region": "icon/star",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "trophy",
+      "region": "icon/trophy",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "task",
+      "region": "icon/task",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "map",
+      "region": "icon/map",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "base",
+      "region": "icon/base",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "troops",
+      "region": "icon/troops",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "help",
+      "region": "icon/help",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "power",
+      "region": "icon/power",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "hero_rhea",
+      "region": "icon/hero_rhea",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "hero_viktor",
+      "region": "icon/hero_viktor",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "hero_kaya",
+      "region": "icon/hero_kaya",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "hero_brock",
+      "region": "icon/hero_brock",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    },
+    {
+      "name": "hero_nova",
+      "region": "icon/hero_nova",
+      "frames": 1,
+      "duration": 1.0,
+      "loop": false,
+      "w": 64,
+      "h": 64,
+      "ax": 32,
+      "ay": 32
+    }
+  ],
+  "fx": [
+    {
+      "name": "explosion",
+      "region": "fx/explosion",
+      "frames": 6,
+      "duration": 0.07,
+      "loop": false,
+      "w": 96,
+      "h": 96,
+      "ax": 48,
+      "ay": 24
+    }
+  ]
+}

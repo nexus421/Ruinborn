@@ -1,0 +1,196 @@
+{
+  "version": 1,
+  "start": {
+    "buildings": { "HQ": 1, "MAUER": 1, "LAGER": 1, "KASERNE": 1, "LAZARETT": 1, "SAMMELPUNKT": 1 },
+    "resourceBuildings": { "R1": "FARM", "R2": "SAWMILL", "R3": "STEEL_MILL" },
+    "food": 2000,
+    "wood": 2000,
+    "steel": 1000,
+    "troops": [ { "type": "INFANTRY", "tier": 1, "count": 200 } ],
+    "heroes": [ "RHEA" ],
+    "items": { "SPEED_5M": 5 },
+    "spawnZone": 1,
+    "minBaseDistance": 3.0
+  },
+  "buildings": {
+    "HQ":              { "baseCost": [500, 500, 250], "baseTimeSec": 120, "costGrowth": 1.40, "timeGrowth": 1.30, "maxLevel": 20, "unlockHq": 1 },
+    "WALL":            { "baseCost": [300, 400, 200], "baseTimeSec": 90,  "costGrowth": 1.40, "timeGrowth": 1.30, "maxLevel": 20, "unlockHq": 1, "defensePerLevel": 0.02 },
+    "WAREHOUSE":       { "baseCost": [200, 300, 100], "baseTimeSec": 60,  "costGrowth": 1.40, "timeGrowth": 1.30, "maxLevel": 20, "unlockHq": 1, "capacityBase": 5000, "capacityGrowth": 1.32, "protectedShare": 0.25 },
+    "FARM":            { "baseCost": [120, 150, 50],  "baseTimeSec": 45,  "costGrowth": 1.40, "timeGrowth": 1.30, "maxLevel": 20, "unlockHq": 1, "prodPerHour": 100, "prodGrowth": 1.25 },
+    "SAWMILL":         { "baseCost": [150, 120, 50],  "baseTimeSec": 45,  "costGrowth": 1.40, "timeGrowth": 1.30, "maxLevel": 20, "unlockHq": 1, "prodPerHour": 100, "prodGrowth": 1.25 },
+    "STEEL_MILL":      { "baseCost": [150, 150, 30],  "baseTimeSec": 60,  "costGrowth": 1.40, "timeGrowth": 1.30, "maxLevel": 20, "unlockHq": 1, "prodPerHour": 50,  "prodGrowth": 1.25 },
+    "BARRACKS":        { "baseCost": [250, 250, 150], "baseTimeSec": 75,  "costGrowth": 1.40, "timeGrowth": 1.30, "maxLevel": 20, "unlockHq": 1, "orderBase": 100, "orderPerLevel": 50 },
+    "FACTORY":         { "baseCost": [250, 250, 150], "baseTimeSec": 75,  "costGrowth": 1.40, "timeGrowth": 1.30, "maxLevel": 20, "unlockHq": 2, "orderBase": 100, "orderPerLevel": 50 },
+    "RANGE":           { "baseCost": [250, 250, 150], "baseTimeSec": 75,  "costGrowth": 1.40, "timeGrowth": 1.30, "maxLevel": 20, "unlockHq": 3, "orderBase": 100, "orderPerLevel": 50 },
+    "HOSPITAL":        { "baseCost": [200, 200, 100], "baseTimeSec": 60,  "costGrowth": 1.40, "timeGrowth": 1.30, "maxLevel": 20, "unlockHq": 1, "capacityBase": 300, "capacityGrowth": 1.25 },
+    "LAB":             { "baseCost": [300, 300, 200], "baseTimeSec": 90,  "costGrowth": 1.40, "timeGrowth": 1.30, "maxLevel": 20, "unlockHq": 3, "labPerResearchLevel": 2, "labOffset": -1 },
+    "RALLY_POINT":     { "baseCost": [200, 250, 100], "baseTimeSec": 60,  "costGrowth": 1.40, "timeGrowth": 1.30, "maxLevel": 20, "unlockHq": 1, "marchBase": 500, "marchPerLevel": 400 },
+    "ALLIANCE_CENTER": { "baseCost": [300, 300, 150], "baseTimeSec": 60,  "costGrowth": 1.40, "timeGrowth": 1.30, "maxLevel": 20, "unlockHq": 4, "helpBase": 5, "helpLevelDivisor": 2, "reinforceBase": 2000, "reinforcePerLevel": 1000 }
+  },
+  "resourcePlots": { "R1": 1, "R2": 1, "R3": 1, "R4": 1, "R5": 3, "R6": 5, "R7": 7, "R8": 9, "R9": 11, "R10": 13 },
+  "timers": { "buildQueues": 2, "cancelRefundShare": 0.5 },
+  "research": {
+    "baseCost": [1000, 1000, 500],
+    "costGrowth": 1.6,
+    "baseTimeSec": 300,
+    "timeGrowth": 1.4,
+    "maxLevel": 10,
+    "unlockHq": 3,
+    "techs": {
+      "AGRICULTURE":      { "PROD_FOOD": 0.05 },
+      "WOODWORKING":      { "PROD_WOOD": 0.05 },
+      "METALLURGY":       { "PROD_STEEL": 0.05 },
+      "STORAGE":          { "STORAGE": 0.05 },
+      "CONSTRUCTION":     { "BUILD_SPEED": 0.03 },
+      "RESEARCH_METHODS": { "RESEARCH_SPEED": 0.03 },
+      "GATHERING":        { "GATHER_SPEED": 0.05, "LOAD": 0.03 },
+      "LOGISTICS":        { "MARCH_SPEED": 0.03 },
+      "DRILL":            { "INFANTRY_ATK": 0.02, "INFANTRY_DEF": 0.02 },
+      "ARMOR":            { "VEHICLE_ATK": 0.02, "VEHICLE_DEF": 0.02 },
+      "BALLISTICS":       { "SHOOTER_ATK": 0.02, "SHOOTER_DEF": 0.02 },
+      "FIELD_MEDICINE":   { "HEAL_SPEED": 0.05, "HOSPITAL_CAP": 0.05 },
+      "TRAINING_METHODS": { "TRAIN_SPEED": 0.03 },
+      "MARCH_ORDER":      { "MARCH_SIZE": 0.03 },
+      "ZOMBIOLOGY":       { "ZOMBIE_ATK": 0.03 }
+    }
+  },
+  "units": {
+    "INFANTRY": { "atk": 10, "def": 12, "hp": 100, "load": 12, "secPerTile": 30, "cost": [30, 20, 5],  "trainSec": 10 },
+    "VEHICLE":  { "atk": 12, "def": 10, "hp": 120, "load": 8,  "secPerTile": 20, "cost": [20, 30, 10], "trainSec": 12 },
+    "SHOOTER":  { "atk": 14, "def": 8,  "hp": 80,  "load": 10, "secPerTile": 25, "cost": [25, 25, 5],  "trainSec": 11 }
+  },
+  "tiers": { "maxTier": 5, "statGrowth": 1.6, "loadGrowth": 1.3, "trainGrowth": 1.4, "unlockLevels": [1, 5, 9, 13, 17] },
+  "hospital": { "healCostShare": 0.5, "healTimeShare": 0.3 },
+  "heroes": {
+    "maxLevel": 30,
+    "xpBase": 100,
+    "xpGrowth": 1.25,
+    "pvpXpFactor": 2,
+    "heroes": {
+      "RHEA":   { "unlockHq": 1,  "bonusPerLevel": { "INFANTRY_ATK": 0.01, "INFANTRY_DEF": 0.01 } },
+      "VIKTOR": { "unlockHq": 4,  "bonusPerLevel": { "ZOMBIE_ATK": 0.015 } },
+      "KAYA":   { "unlockHq": 7,  "bonusPerLevel": { "GATHER_SPEED": 0.02, "LOAD": 0.01 } },
+      "BROCK":  { "unlockHq": 10, "bonusPerLevel": { "VEHICLE_ATK": 0.01, "VEHICLE_DEF": 0.01 } },
+      "NOVA":   { "unlockHq": 14, "bonusPerLevel": { "SHOOTER_ATK": 0.01, "SHOOTER_DEF": 0.01 } }
+    }
+  },
+  "map": { "width": 100, "height": 100, "centerX": 50, "centerY": 50, "zone3MaxR": 15, "zone2MaxR": 32 },
+  "zombies": {
+    "minLevel": 1, "maxLevel": 20,
+    "countBase": 60, "countGrowth": 1.25,
+    "atkBase": 9, "defBase": 8, "hpBase": 90, "statGrowth": 1.12,
+    "rewardBase": 400, "rewardGrowth": 1.30, "steelShare": 0.4,
+    "xpBase": 50, "xpGrowth": 1.25,
+    "dropChance": 0.25,
+    "drops": [
+      { "maxLevel": 5,  "item": "SPEED_5M" },
+      { "maxLevel": 10, "item": "SPEED_15M" },
+      { "maxLevel": 15, "item": "SPEED_60M" },
+      { "maxLevel": 20, "item": "SPEED_3H" }
+    ]
+  },
+  "nests": {
+    "minLevel": 1, "maxLevel": 5,
+    "countBase": 3000, "countGrowth": 2,
+    "atkBase": 20, "defBase": 18, "hpBase": 200, "statGrowth": 1.4,
+    "rewardFoodWoodBase": 20000, "rewardSteelBase": 8000, "rewardGrowth": 2,
+    "speedupItem": "SPEED_60M", "speedupsPerLevel": 1,
+    "xpBase": 1000, "xpGrowth": 2
+  },
+  "fields": { "minLevel": 1, "maxLevel": 4, "stockBase": 30000, "stockGrowth": 2, "steelShare": 0.5, "rateBase": 4000, "ratePerLevel": 1000 },
+  "spawn": {
+    "intervalSec": 300,
+    "maxAttempts": 50,
+    "zones": [
+      { "zone": 1, "zombies": { "minLevel": 1,  "maxLevel": 7,  "count": 300 }, "nests": { "minLevel": 1, "maxLevel": 1, "count": 0 }, "fields": { "minLevel": 1, "maxLevel": 2, "count": 150 } },
+      { "zone": 2, "zombies": { "minLevel": 6,  "maxLevel": 14, "count": 200 }, "nests": { "minLevel": 1, "maxLevel": 2, "count": 3 }, "fields": { "minLevel": 2, "maxLevel": 3, "count": 100 } },
+      { "zone": 3, "zombies": { "minLevel": 13, "maxLevel": 20, "count": 80 },  "nests": { "minLevel": 3, "maxLevel": 5, "count": 3 }, "fields": { "minLevel": 3, "maxLevel": 4, "count": 40 } }
+    ]
+  },
+  "relocation": { "minHqByZone": { "1": 1, "2": 8, "3": 14 } },
+  "marches": { "maxScouts": 1, "minUnits": 1 },
+  "combat": {
+    "maxRounds": 20,
+    "counterMultiplier": 1.25,
+    "defenseConstant": 100,
+    "counters": { "INFANTRY": "SHOOTER", "SHOOTER": "VEHICLE", "VEHICLE": "INFANTRY" },
+    "hospitalOrder": [ "INFANTRY", "VEHICLE", "SHOOTER" ]
+  },
+  "scouting": { "foodCost": 500, "secPerTile": 10 },
+  "protection": { "newbieHours": 72, "newbieEndsAtHq": 6, "recoveryLosses": 3, "recoveryWindowHours": 12, "recoveryShieldHours": 4, "inactivityDays": 7 },
+  "catchup": {
+    "activeDays": 7,
+    "levelsBelowMedian": 3,
+    "bonuses": { "BUILD_SPEED": 0.5, "RESEARCH_SPEED": 0.5, "PROD_FOOD": 0.25, "PROD_WOOD": 0.25, "PROD_STEEL": 0.25 }
+  },
+  "alliance": {
+    "maxMembers": 30,
+    "foundMinHq": 4,
+    "joinMinHq": 1,
+    "nameMinLength": 3,
+    "nameMaxLength": 20,
+    "tagLength": 3,
+    "descriptionMaxLength": 500,
+    "requestExpiryDays": 7,
+    "joinBlockHours": 12,
+    "leaderInactiveDays": 7,
+    "helpsWithoutCenter": 3,
+    "helpMinSec": 60,
+    "helpShare": 0.01
+  },
+  "rally": { "waitMinutes": [5, 10, 30], "maxJoiners": 4 },
+  "gifts": { "foodWoodPerLevel": 5000, "item": "SPEED_15M", "itemCount": 1, "expiryDays": 7 },
+  "items": {
+    "speedups": { "SPEED_1M": 60, "SPEED_5M": 300, "SPEED_15M": 900, "SPEED_60M": 3600, "SPEED_3H": 10800, "SPEED_8H": 28800 },
+    "chests": {
+      "RES_FOOD_S":  { "resource": "FOOD",  "amount": 1000 },
+      "RES_FOOD_M":  { "resource": "FOOD",  "amount": 10000 },
+      "RES_FOOD_L":  { "resource": "FOOD",  "amount": 50000 },
+      "RES_WOOD_S":  { "resource": "WOOD",  "amount": 1000 },
+      "RES_WOOD_M":  { "resource": "WOOD",  "amount": 10000 },
+      "RES_WOOD_L":  { "resource": "WOOD",  "amount": 50000 },
+      "RES_STEEL_S": { "resource": "STEEL", "amount": 500 },
+      "RES_STEEL_M": { "resource": "STEEL", "amount": 5000 },
+      "RES_STEEL_L": { "resource": "STEEL", "amount": 25000 }
+    },
+    "shields": { "SHIELD_8H": 8, "SHIELD_24H": 24 },
+    "heroBooks": { "HERO_XP_S": 500, "HERO_XP_L": 2000 }
+  },
+  "daily": {
+    "tasks": {
+      "ZOMBIE_HUNT": { "target": 5,     "rewards": [ { "item": "SPEED_15M", "count": 2 } ] },
+      "BUILDER":     { "target": 1,     "rewards": [ { "chest": "FOOD" } ] },
+      "DRILL":       { "target": 200,   "rewards": [ { "item": "SPEED_60M" } ] },
+      "GATHERER":    { "target": 20000, "rewards": [ { "chest": "WOOD" } ] },
+      "COMRADE":     { "target": 5,     "rewards": [ { "item": "HERO_XP_S" } ] },
+      "BONUS":       { "target": 4,     "rewards": [ { "item": "SPEED_3H" }, { "chest": "STEEL" } ] }
+    },
+    "chestSizes": [ { "maxHq": 7, "size": "S" }, { "maxHq": 14, "size": "M" }, { "maxHq": 20, "size": "L" } ]
+  },
+  "achievements": [
+    { "id": "HQ_2",           "kind": "HQ_LEVEL",        "target": 2,   "rewards": [ { "item": "SPEED_5M", "count": 2 } ] },
+    { "id": "FIRST_ZOMBIE",   "kind": "ZOMBIE_WINS",     "target": 1,   "rewards": [ { "item": "HERO_XP_S" } ] },
+    { "id": "FIRST_GATHER",   "kind": "GATHER_HOME",     "target": 1,   "rewards": [ { "chest": "FOOD", "chestSize": "S" } ] },
+    { "id": "HQ_3",           "kind": "HQ_LEVEL",        "target": 3,   "rewards": [ { "item": "SPEED_15M", "count": 2 } ] },
+    { "id": "FIRST_RESEARCH", "kind": "RESEARCH_DONE",   "target": 1,   "rewards": [ { "chest": "STEEL", "chestSize": "S" } ] },
+    { "id": "TRAIN_500",      "kind": "UNITS_TRAINED",   "target": 500, "rewards": [ { "item": "SPEED_60M" } ] },
+    { "id": "JOIN_ALLIANCE",  "kind": "ALLIANCE_JOINED", "target": 1,   "rewards": [ { "item": "RELOCATE" } ] },
+    { "id": "HQ_5",           "kind": "HQ_LEVEL",        "target": 5,   "rewards": [ { "item": "SHIELD_8H" } ] },
+    { "id": "ZOMBIE_5",       "kind": "ZOMBIE_LEVEL",    "target": 5,   "rewards": [ { "item": "SPEED_3H" } ] },
+    { "id": "SCOUT_PLAYER",   "kind": "SCOUT_PLAYER",    "target": 1,   "rewards": [ { "chest": "FOOD", "chestSize": "M" } ] },
+    { "id": "RALLY_FIGHT",    "kind": "RALLY_FIGHT",     "target": 1,   "rewards": [ { "item": "SPEED_3H" } ] },
+    { "id": "HQ_10",          "kind": "HQ_LEVEL",        "target": 10,  "rewards": [ { "cosmetic": "SKIN_TIN" }, { "item": "SPEED_8H" } ] },
+    { "id": "ZOMBIE_10",      "kind": "ZOMBIE_LEVEL",    "target": 10,  "rewards": [ { "item": "HERO_XP_L" } ] },
+    { "id": "DEFENSE_WIN",    "kind": "DEFENSE_WIN",     "target": 1,   "rewards": [ { "cosmetic": "FRAME_BULWARK" } ] },
+    { "id": "NEST_3",         "kind": "NEST_LEVEL",      "target": 3,   "rewards": [ { "cosmetic": "FRAME_NEST" } ] },
+    { "id": "HQ_15",          "kind": "HQ_LEVEL",        "target": 15,  "rewards": [ { "cosmetic": "SKIN_FORT" } ] },
+    { "id": "ZOMBIE_15",      "kind": "ZOMBIE_LEVEL",    "target": 15,  "rewards": [ { "item": "SPEED_8H", "count": 2 } ] },
+    { "id": "ZOMBIES_200",    "kind": "ZOMBIE_WINS",     "target": 200, "rewards": [ { "cosmetic": "FRAME_PLAGUE" } ] },
+    { "id": "ZOMBIE_20",      "kind": "ZOMBIE_LEVEL",    "target": 20,  "rewards": [ { "cosmetic": "FRAME_LEGEND" } ] },
+    { "id": "HQ_20",          "kind": "HQ_LEVEL",        "target": 20,  "rewards": [ { "cosmetic": "SKIN_CITADEL" } ] }
+  ],
+  "cosmetics": { "defaultSkin": "SKIN_DEFAULT", "defaultFrame": "FRAME_DEFAULT" },
+  "chat": { "maxLength": 300, "minIntervalMs": 2000, "historyDays": 30, "pageSize": 50 },
+  "reports": { "retentionDays": 30, "pageSize": 50 },
+  "rankings": { "topN": 100, "powerPerBuildingLevel": 50, "powerPerResearchLevel": 100, "powerPerHeroLevel": 200 }
+}
