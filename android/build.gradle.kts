@@ -12,7 +12,10 @@ val serverUrl = (providers.gradleProperty("ruinborn.androidServerUrl").orNull ?:
 android {
     namespace = "bayern.kickner.ruinborn"
     // 37 instead of 36 (gdx-liftoff): OkHttp 5.5 from Ktor 3.6 requires at least compileSdk 37. targetSdk follows.
-    compileSdk = 37
+    // Written as 37.0 so the IDE finds the SDK platform folder android-37.0 (plain 37 resolves to android-37).
+    compileSdk {
+        version = release(37) { minorApiLevel = 0 }
+    }
 
     defaultConfig {
         applicationId = "bayern.kickner.ruinborn"

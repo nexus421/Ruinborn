@@ -13,8 +13,8 @@ lwjgl3 = "3.4.3"
 ktx = "1.14.2-rc2"
 klogger = "0.2.0"
 kotnexlib = "4.4.1"
-# Android: AGP 9.4.1 (latest stable, needs Gradle ≥ 9.6). compileSdk/targetSdk 37 (see android/build.gradle.kts, E-25), minSdk 26 (concept).
-agp = "9.4.1"
+# Android: AGP 9.1.0, the newest version IntelliJ IDEA supports (E-25). compileSdk/targetSdk 37 (see android/build.gradle.kts), minSdk 26 (concept).
+agp = "9.1.0"
 
 [libraries]
 serialization-json = { module = "org.jetbrains.kotlinx:kotlinx-serialization-json", version.ref = "serialization" }

@@ -212,6 +212,9 @@ Android lint without findings, debug and unsigned release APK built, `-Pruinborn
 - `tools/sprites/generate.py`: translated the comment templates for the generated `SpriteCatalog.kt`.
 - `tools/sprites/verify/VerifyAssets.kt`: imports now point to the project package instead of the package of the
   original asset package.
+- AGP lowered from 9.4.1 to 9.1.0 because IntelliJ IDEA does not support newer versions (E-25). Debug and release APK
+  build, lint reports 0 errors. Not yet tested on the emulator with this version.
+- `gradle/gradle-daemon-jvm.properties` pins the Gradle daemon to Corretto 25, because Gradle 9.8 does not run on Java 27.
 - Removed the archived original concept, the original asset package and its README, and references to third-party
   product names. Added `LICENSE` (MIT).
 

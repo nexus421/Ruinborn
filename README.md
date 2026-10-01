@@ -33,7 +33,8 @@ Kotlin Multiplatform, libGDX with KTX, Ktor (server and client), SQLite with Exp
 
 Requirements:
 
-- JDK 17 or newer to run Gradle. The toolchain JDK (Amazon Corretto 25) is downloaded automatically if missing.
+- JDK 17 to 26 to start Gradle. The Gradle daemon and the build use Amazon Corretto 25, which is downloaded
+  automatically if missing.
 - For the Android app only: Android SDK with platform 37.
 - For regenerating the graphics only: Python 3 with Pillow, NumPy and SciPy.
 
